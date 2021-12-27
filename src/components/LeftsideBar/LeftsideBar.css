@@ -1,0 +1,7 @@
+.left-sidebar{
+    background-color: #FDFDFD;
+    flex-basis: 25%;
+    position: sticky;
+    top: 70px;
+    align-self: flex-start;
+}
